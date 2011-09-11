@@ -10,7 +10,7 @@
 	<artifactId>hadoop-scala</artifactId>
 	<packaging>jar</packaging>
 	<name>hadoop-scala</name>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<inceptionYear>2011</inceptionYear>
 	<url>http://ueshin.github.com/hadoop-scala</url>
