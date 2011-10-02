@@ -1,4 +1,5 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<parent>
 		<groupId>st.happy_camper.hadoop</groupId>
@@ -37,13 +38,13 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:git:git@github.com:ueshin/hadoop-scala.git</connection>
-		<developerConnection>scm:git:git@github.com:ueshin/hadoop-scala.git</developerConnection>
+		<connection>scm:git://github.com/ueshin/hadoop-scala.git</connection>
+		<developerConnection>scm:git@github.com:ueshin/hadoop-scala.git</developerConnection>
 		<url>https://github.com/ueshin/hadoop-scala</url>
 	</scm>
 	<issueManagement>
 		<system>GitHub</system>
-		<url>http://github.com/ueshin/hadoop-scala/issues/</url>
+		<url>http://github.com/ueshin/hadoop-scala/issues</url>
 	</issueManagement>
 
 	<build>
